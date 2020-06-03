@@ -1,9 +1,9 @@
 {
-  "name": "@azz/prettier-config",
+  "name": "@newsflex/prettier-config",
   "version": "1.0.0",
   "description": "My personal Prettier config",
   "main": "index.json",
-  "repository": "git@github.com:azz/prettier-config.git",
-  "author": "Lucas Azzola <lucas@azzola.dev>",
+  "repository": "git@github.com:newsflex/prettier-config.git",
+  "author": "Joe K <jkampschmidt@npr.org>",
   "license": "MIT"
 }
